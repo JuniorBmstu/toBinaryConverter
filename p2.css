@@ -1,0 +1,27 @@
+h1, h2
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body
+{
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+}
+.insideb2
+{
+    margin:2em 0em 2em 0em;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    text-align: left;;
+}
+.insidebody
+{
+    margin: 7em 0em 0em 0em;
+    padding: 3em 0em 0em 0em;
+    border: 2px inset silver;
+    border-radius: 40px;
+    width: 600px;
+    height:500px;
+    text-align:center;
+    
+}
